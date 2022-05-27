@@ -1,0 +1,1214 @@
+Area Name,Month,Specimen date,Daily lab-confirmed cases,Cumulative lab-confirmed cases,Cumulative lab-confirmed cases rate
+Yorkshire and The Humber,January,2020-01-30,1,1,0
+South East,February,2020-02-05,1,1,0
+South East,February,2020-02-08,4,5,0.1
+South East,February,2020-02-09,1,6,0.1
+London,February,2020-02-11,1,1,0
+Yorkshire and The Humber,February,2020-02-20,1,2,0
+East Midlands,February,2020-02-21,1,1,0
+South East,February,2020-02-24,1,7,0.1
+London,February,2020-02-24,1,2,0
+South East,February,2020-02-25,1,8,0.1
+London,February,2020-02-25,3,5,0.1
+East Midlands,February,2020-02-25,1,2,0
+London,February,2020-02-26,2,7,0.1
+South West,February,2020-02-26,1,1,0
+East of England,February,2020-02-26,1,1,0
+South East,February,2020-02-27,2,10,0.1
+London,February,2020-02-27,2,9,0.1
+Yorkshire and The Humber,February,2020-02-27,1,3,0.1
+South West,February,2020-02-27,1,2,0
+East of England,February,2020-02-27,1,2,0
+London,February,2020-02-28,4,13,0.1
+South East,February,2020-02-28,2,12,0.1
+Yorkshire and The Humber,February,2020-02-28,2,5,0.1
+East of England,February,2020-02-28,2,4,0.1
+East Midlands,February,2020-02-28,1,3,0.1
+North West,February,2020-02-28,1,1,0
+South East,February,2020-02-29,2,14,0.2
+London,February,2020-02-29,1,14,0.2
+East Midlands,February,2020-02-29,1,4,0.1
+London,March,2020-03-01,4,18,0.2
+South East,March,2020-03-01,1,15,0.2
+North West,March,2020-03-01,7,8,0.1
+Yorkshire and The Humber,March,2020-03-01,2,7,0.1
+South West,March,2020-03-01,3,5,0.1
+East of England,March,2020-03-01,1,5,0.1
+East Midlands,March,2020-03-01,1,5,0.1
+West Midlands,March,2020-03-01,2,2,0
+London,March,2020-03-02,12,30,0.3
+South East,March,2020-03-02,1,16,0.2
+North West,March,2020-03-02,6,14,0.2
+South West,March,2020-03-02,8,13,0.2
+Yorkshire and The Humber,March,2020-03-02,3,10,0.2
+East Midlands,March,2020-03-02,2,7,0.1
+West Midlands,March,2020-03-02,4,6,0.1
+North East,March,2020-03-02,1,1,0
+London,March,2020-03-03,6,36,0.4
+South East,March,2020-03-03,9,25,0.3
+South West,March,2020-03-03,10,23,0.4
+North West,March,2020-03-03,7,21,0.3
+East Midlands,March,2020-03-03,7,14,0.3
+Yorkshire and The Humber,March,2020-03-03,4,14,0.3
+East of England,March,2020-03-03,7,12,0.2
+West Midlands,March,2020-03-03,1,7,0.1
+London,March,2020-03-04,18,54,0.6
+South East,March,2020-03-04,7,32,0.4
+South West,March,2020-03-04,6,29,0.5
+North West,March,2020-03-04,2,23,0.3
+East of England,March,2020-03-04,7,19,0.3
+East Midlands,March,2020-03-04,2,16,0.3
+Yorkshire and The Humber,March,2020-03-04,2,16,0.3
+West Midlands,March,2020-03-04,3,10,0.2
+North East,March,2020-03-04,1,2,0.1
+London,March,2020-03-05,14,68,0.8
+South East,March,2020-03-05,4,36,0.4
+South West,March,2020-03-05,4,33,0.6
+North West,March,2020-03-05,10,33,0.5
+East of England,March,2020-03-05,1,20,0.3
+East Midlands,March,2020-03-05,3,19,0.4
+Yorkshire and The Humber,March,2020-03-05,2,18,0.3
+West Midlands,March,2020-03-05,6,16,0.3
+North East,March,2020-03-05,2,4,0.2
+London,March,2020-03-06,23,91,1
+South East,March,2020-03-06,16,52,0.6
+South West,March,2020-03-06,11,44,0.8
+North West,March,2020-03-06,2,35,0.5
+East Midlands,March,2020-03-06,7,26,0.5
+East of England,March,2020-03-06,5,25,0.4
+Yorkshire and The Humber,March,2020-03-06,2,20,0.4
+West Midlands,March,2020-03-06,2,18,0.3
+North East,March,2020-03-06,1,5,0.2
+London,March,2020-03-07,14,105,1.2
+South East,March,2020-03-07,4,56,0.6
+South West,March,2020-03-07,2,46,0.8
+North West,March,2020-03-07,6,41,0.6
+East Midlands,March,2020-03-07,4,30,0.6
+East of England,March,2020-03-07,3,28,0.5
+Yorkshire and The Humber,March,2020-03-07,5,25,0.5
+West Midlands,March,2020-03-07,5,23,0.4
+North East,March,2020-03-07,2,7,0.3
+London,March,2020-03-08,22,127,1.4
+South East,March,2020-03-08,10,66,0.7
+South West,March,2020-03-08,3,49,0.9
+North West,March,2020-03-08,5,46,0.6
+East Midlands,March,2020-03-08,1,31,0.6
+East of England,March,2020-03-08,2,30,0.5
+Yorkshire and The Humber,March,2020-03-08,3,28,0.5
+West Midlands,March,2020-03-08,4,27,0.5
+London,March,2020-03-09,53,180,2
+South East,March,2020-03-09,24,90,1
+South West,March,2020-03-09,5,54,1
+North West,March,2020-03-09,7,53,0.7
+East Midlands,March,2020-03-09,10,41,0.9
+West Midlands,March,2020-03-09,8,35,0.6
+Yorkshire and The Humber,March,2020-03-09,7,35,0.6
+East of England,March,2020-03-09,4,34,0.5
+North East,March,2020-03-09,3,10,0.4
+London,March,2020-03-10,91,271,3
+South East,March,2020-03-10,34,124,1.4
+North West,March,2020-03-10,15,68,0.9
+South West,March,2020-03-10,10,64,1.1
+East Midlands,March,2020-03-10,12,53,1.1
+Yorkshire and The Humber,March,2020-03-10,18,53,1
+West Midlands,March,2020-03-10,17,52,0.9
+East of England,March,2020-03-10,16,50,0.8
+North East,March,2020-03-10,4,14,0.5
+London,March,2020-03-11,183,454,5.1
+South East,March,2020-03-11,50,174,1.9
+North West,March,2020-03-11,17,85,1.2
+South West,March,2020-03-11,19,83,1.5
+West Midlands,March,2020-03-11,29,81,1.4
+East Midlands,March,2020-03-11,25,78,1.6
+East of England,March,2020-03-11,14,64,1
+Yorkshire and The Humber,March,2020-03-11,10,63,1.1
+North East,March,2020-03-11,1,15,0.6
+London,March,2020-03-12,165,619,6.9
+South East,March,2020-03-12,85,259,2.8
+West Midlands,March,2020-03-12,46,127,2.2
+North West,March,2020-03-12,40,125,1.7
+South West,March,2020-03-12,24,107,1.9
+East Midlands,March,2020-03-12,18,96,2
+East of England,March,2020-03-12,18,82,1.3
+Yorkshire and The Humber,March,2020-03-12,14,77,1.4
+North East,March,2020-03-12,2,17,0.6
+London,March,2020-03-13,136,755,8.5
+South East,March,2020-03-13,53,312,3.4
+West Midlands,March,2020-03-13,40,167,2.8
+North West,March,2020-03-13,41,166,2.3
+South West,March,2020-03-13,31,138,2.5
+East of England,March,2020-03-13,37,119,1.9
+East Midlands,March,2020-03-13,22,118,2.5
+Yorkshire and The Humber,March,2020-03-13,12,89,1.6
+North East,March,2020-03-13,6,23,0.9
+London,March,2020-03-14,149,904,10.1
+South East,March,2020-03-14,41,353,3.9
+West Midlands,March,2020-03-14,31,198,3.4
+North West,March,2020-03-14,25,191,2.6
+South West,March,2020-03-14,12,150,2.7
+East Midlands,March,2020-03-14,19,137,2.9
+East of England,March,2020-03-14,16,135,2.2
+Yorkshire and The Humber,March,2020-03-14,12,101,1.8
+North East,March,2020-03-14,6,29,1.1
+London,March,2020-03-15,165,1069,12
+South East,March,2020-03-15,53,406,4.4
+West Midlands,March,2020-03-15,44,242,4.1
+North West,March,2020-03-15,23,214,2.9
+East of England,March,2020-03-15,35,170,2.7
+South West,March,2020-03-15,17,167,3
+East Midlands,March,2020-03-15,26,163,3.4
+Yorkshire and The Humber,March,2020-03-15,10,111,2
+North East,March,2020-03-15,10,39,1.5
+London,March,2020-03-16,234,1303,14.6
+South East,March,2020-03-16,78,484,5.3
+West Midlands,March,2020-03-16,56,298,5.1
+North West,March,2020-03-16,56,270,3.7
+East Midlands,March,2020-03-16,34,197,4.1
+East of England,March,2020-03-16,23,193,3.1
+South West,March,2020-03-16,18,185,3.3
+Yorkshire and The Humber,March,2020-03-16,28,139,2.5
+North East,March,2020-03-16,7,46,1.7
+London,March,2020-03-17,310,1613,18.1
+South East,March,2020-03-17,89,573,6.3
+West Midlands,March,2020-03-17,69,367,6.2
+North West,March,2020-03-17,55,325,4.5
+East of England,March,2020-03-17,38,231,3.7
+East Midlands,March,2020-03-17,33,230,4.8
+South West,March,2020-03-17,21,206,3.7
+Yorkshire and The Humber,March,2020-03-17,31,170,3.1
+North East,March,2020-03-17,16,62,2.3
+London,March,2020-03-18,356,1969,22.1
+South East,March,2020-03-18,122,695,7.6
+West Midlands,March,2020-03-18,99,466,7.9
+North West,March,2020-03-18,84,409,5.6
+East of England,March,2020-03-18,74,305,4.9
+East Midlands,March,2020-03-18,49,279,5.8
+South West,March,2020-03-18,43,249,4.4
+Yorkshire and The Humber,March,2020-03-18,46,216,3.9
+North East,March,2020-03-18,14,76,2.9
+London,March,2020-03-19,333,2302,25.8
+South East,March,2020-03-19,127,822,9
+West Midlands,March,2020-03-19,123,589,10
+North West,March,2020-03-19,98,507,7
+East of England,March,2020-03-19,56,361,5.8
+East Midlands,March,2020-03-19,66,345,7.2
+Yorkshire and The Humber,March,2020-03-19,55,271,4.9
+South West,March,2020-03-19,21,270,4.8
+North East,March,2020-03-19,19,95,3.6
+London,March,2020-03-20,426,2728,30.6
+South East,March,2020-03-20,126,948,10.4
+West Midlands,March,2020-03-20,151,740,12.5
+North West,March,2020-03-20,82,589,8.1
+East of England,March,2020-03-20,70,431,7
+East Midlands,March,2020-03-20,53,398,8.3
+Yorkshire and The Humber,March,2020-03-20,59,330,6
+South West,March,2020-03-20,43,313,5.6
+North East,March,2020-03-20,26,121,4.6
+London,March,2020-03-21,351,3079,34.6
+South East,March,2020-03-21,129,1077,11.8
+West Midlands,March,2020-03-21,125,865,14.7
+North West,March,2020-03-21,114,703,9.6
+East of England,March,2020-03-21,77,508,8.2
+East Midlands,March,2020-03-21,69,467,9.7
+Yorkshire and The Humber,March,2020-03-21,77,407,7.4
+South West,March,2020-03-21,42,355,6.3
+North East,March,2020-03-21,23,144,5.4
+London,March,2020-03-22,437,3516,39.5
+South East,March,2020-03-22,170,1247,13.7
+West Midlands,March,2020-03-22,111,976,16.5
+North West,March,2020-03-22,117,820,11.2
+East of England,March,2020-03-22,91,599,9.7
+East Midlands,March,2020-03-22,99,566,11.8
+Yorkshire and The Humber,March,2020-03-22,95,502,9.2
+South West,March,2020-03-22,44,399,7.1
+North East,March,2020-03-22,20,164,6.2
+London,March,2020-03-23,689,4205,47.2
+South East,March,2020-03-23,281,1528,16.7
+West Midlands,March,2020-03-23,240,1216,20.6
+North West,March,2020-03-23,176,996,13.7
+East of England,March,2020-03-23,196,795,12.8
+East Midlands,March,2020-03-23,117,683,14.2
+Yorkshire and The Humber,March,2020-03-23,145,647,11.8
+South West,March,2020-03-23,62,461,8.2
+North East,March,2020-03-23,58,222,8.4
+London,March,2020-03-24,636,4841,54.3
+South East,March,2020-03-24,235,1763,19.3
+West Midlands,March,2020-03-24,250,1466,24.8
+North West,March,2020-03-24,255,1251,17.2
+East of England,March,2020-03-24,165,960,15.5
+East Midlands,March,2020-03-24,136,819,17
+Yorkshire and The Humber,March,2020-03-24,156,803,14.7
+South West,March,2020-03-24,68,529,9.4
+North East,March,2020-03-24,76,298,11.2
+London,March,2020-03-25,757,5598,62.8
+South East,March,2020-03-25,305,2068,22.6
+West Midlands,March,2020-03-25,240,1706,28.9
+North West,March,2020-03-25,255,1506,20.7
+East of England,March,2020-03-25,188,1148,18.5
+Yorkshire and The Humber,March,2020-03-25,151,954,17.4
+East Midlands,March,2020-03-25,116,935,19.5
+South West,March,2020-03-25,104,633,11.3
+North East,March,2020-03-25,76,374,14.1
+London,March,2020-03-26,763,6361,71.4
+South East,March,2020-03-26,320,2388,26.1
+West Midlands,March,2020-03-26,313,2019,34.2
+North West,March,2020-03-26,357,1863,25.5
+East of England,March,2020-03-26,215,1363,22
+Yorkshire and The Humber,March,2020-03-26,179,1133,20.7
+East Midlands,March,2020-03-26,154,1089,22.7
+South West,March,2020-03-26,119,752,13.4
+North East,March,2020-03-26,97,471,17.7
+London,March,2020-03-27,819,7180,80.6
+South East,March,2020-03-27,332,2720,29.8
+West Midlands,March,2020-03-27,279,2298,38.9
+North West,March,2020-03-27,333,2196,30.1
+East of England,March,2020-03-27,244,1607,25.9
+Yorkshire and The Humber,March,2020-03-27,154,1287,23.5
+East Midlands,March,2020-03-27,137,1226,25.5
+South West,March,2020-03-27,129,881,15.7
+North East,March,2020-03-27,101,572,21.5
+London,March,2020-03-28,577,7757,87.1
+South East,March,2020-03-28,337,3057,33.5
+West Midlands,March,2020-03-28,323,2621,44.4
+North West,March,2020-03-28,322,2518,34.5
+East of England,March,2020-03-28,183,1790,28.9
+Yorkshire and The Humber,March,2020-03-28,207,1494,27.3
+East Midlands,March,2020-03-28,159,1385,28.8
+South West,March,2020-03-28,102,983,17.6
+North East,March,2020-03-28,114,686,25.8
+London,March,2020-03-29,595,8352,93.8
+South East,March,2020-03-29,295,3352,36.7
+West Midlands,March,2020-03-29,366,2987,50.6
+North West,March,2020-03-29,359,2877,39.5
+East of England,March,2020-03-29,209,1999,32.2
+Yorkshire and The Humber,March,2020-03-29,229,1723,31.4
+East Midlands,March,2020-03-29,129,1514,31.5
+South West,March,2020-03-29,101,1084,19.4
+North East,March,2020-03-29,107,793,29.8
+London,March,2020-03-30,867,9219,103.5
+South East,March,2020-03-30,477,3829,41.9
+West Midlands,March,2020-03-30,431,3418,57.9
+North West,March,2020-03-30,507,3384,46.4
+East of England,March,2020-03-30,300,2299,37.1
+Yorkshire and The Humber,March,2020-03-30,285,2008,36.6
+East Midlands,March,2020-03-30,207,1721,35.8
+South West,March,2020-03-30,163,1247,22.3
+North East,March,2020-03-30,176,969,36.5
+London,March,2020-03-31,932,10151,114
+South East,March,2020-03-31,470,4299,47.1
+North West,March,2020-03-31,555,3939,54
+West Midlands,March,2020-03-31,413,3831,64.9
+East of England,March,2020-03-31,322,2621,42.3
+Yorkshire and The Humber,March,2020-03-31,320,2328,42.5
+East Midlands,March,2020-03-31,277,1998,41.6
+South West,March,2020-03-31,140,1387,24.8
+North East,March,2020-03-31,211,1180,44.4
+London,April,2020-04-01,979,11130,124.9
+South East,April,2020-04-01,547,4846,53.1
+North West,April,2020-04-01,618,4557,62.5
+West Midlands,April,2020-04-01,411,4242,71.9
+East of England,April,2020-04-01,333,2954,47.6
+Yorkshire and The Humber,April,2020-04-01,298,2626,47.9
+East Midlands,April,2020-04-01,296,2294,47.8
+South West,April,2020-04-01,183,1570,28
+North East,April,2020-04-01,307,1487,55.9
+London,April,2020-04-02,1071,12201,137
+South East,April,2020-04-02,483,5329,58.3
+North West,April,2020-04-02,680,5237,71.8
+West Midlands,April,2020-04-02,447,4689,79.5
+East of England,April,2020-04-02,372,3326,53.6
+Yorkshire and The Humber,April,2020-04-02,241,2867,52.3
+East Midlands,April,2020-04-02,213,2507,52.2
+South West,April,2020-04-02,183,1753,31.3
+North East,April,2020-04-02,219,1706,64.2
+London,April,2020-04-03,981,13182,148
+North West,April,2020-04-03,682,5919,81.2
+South East,April,2020-04-03,521,5850,64
+West Midlands,April,2020-04-03,373,5062,85.8
+East of England,April,2020-04-03,351,3677,59.3
+Yorkshire and The Humber,April,2020-04-03,293,3160,57.7
+East Midlands,April,2020-04-03,259,2766,57.6
+North East,April,2020-04-03,261,1967,74
+South West,April,2020-04-03,187,1940,34.6
+London,April,2020-04-04,766,13948,156.6
+North West,April,2020-04-04,602,6521,89.4
+South East,April,2020-04-04,458,6308,69.1
+West Midlands,April,2020-04-04,346,5408,91.6
+East of England,April,2020-04-04,268,3945,63.6
+Yorkshire and The Humber,April,2020-04-04,203,3363,61.4
+East Midlands,April,2020-04-04,189,2955,61.5
+North East,April,2020-04-04,254,2221,83.6
+South West,April,2020-04-04,174,2114,37.8
+London,April,2020-04-05,635,14583,163.7
+North West,April,2020-04-05,624,7145,98
+South East,April,2020-04-05,424,6732,73.7
+West Midlands,April,2020-04-05,290,5698,96.6
+East of England,April,2020-04-05,281,4226,68.1
+Yorkshire and The Humber,April,2020-04-05,219,3582,65.4
+East Midlands,April,2020-04-05,148,3103,64.6
+North East,April,2020-04-05,221,2442,91.9
+South West,April,2020-04-05,153,2267,40.5
+London,April,2020-04-06,861,15444,173.4
+North West,April,2020-04-06,870,8015,109.9
+South East,April,2020-04-06,593,7325,80.2
+West Midlands,April,2020-04-06,360,6058,102.7
+East of England,April,2020-04-06,385,4611,74.4
+Yorkshire and The Humber,April,2020-04-06,322,3904,71.2
+East Midlands,April,2020-04-06,215,3318,69.1
+North East,April,2020-04-06,375,2817,106
+South West,April,2020-04-06,184,2451,43.8
+London,April,2020-04-07,953,16397,184.1
+North West,April,2020-04-07,791,8806,120.8
+South East,April,2020-04-07,717,8042,88
+West Midlands,April,2020-04-07,387,6445,109.2
+East of England,April,2020-04-07,389,5000,80.6
+Yorkshire and The Humber,April,2020-04-07,338,4242,77.4
+East Midlands,April,2020-04-07,227,3545,73.8
+North East,April,2020-04-07,351,3168,119.2
+South West,April,2020-04-07,213,2664,47.6
+London,April,2020-04-08,874,17271,193.9
+North West,April,2020-04-08,853,9659,132.5
+South East,April,2020-04-08,569,8611,94.3
+West Midlands,April,2020-04-08,361,6806,115.3
+East of England,April,2020-04-08,409,5409,87.2
+Yorkshire and The Humber,April,2020-04-08,319,4561,83.2
+East Midlands,April,2020-04-08,188,3733,77.7
+North East,April,2020-04-08,291,3459,130.1
+South West,April,2020-04-08,236,2900,51.8
+London,April,2020-04-09,798,18069,202.8
+North West,April,2020-04-09,804,10463,143.5
+South East,April,2020-04-09,525,9136,100
+West Midlands,April,2020-04-09,345,7151,121.2
+East of England,April,2020-04-09,322,5731,92.4
+Yorkshire and The Humber,April,2020-04-09,304,4865,88.8
+East Midlands,April,2020-04-09,233,3966,82.6
+North East,April,2020-04-09,314,3773,142
+South West,April,2020-04-09,246,3146,56.2
+London,April,2020-04-10,614,18683,209.7
+North West,April,2020-04-10,602,11065,151.7
+South East,April,2020-04-10,578,9714,106.4
+West Midlands,April,2020-04-10,362,7513,127.3
+East of England,April,2020-04-10,318,6049,97.5
+Yorkshire and The Humber,April,2020-04-10,299,5164,94.2
+East Midlands,April,2020-04-10,173,4139,86.2
+North East,April,2020-04-10,245,4018,151.2
+South West,April,2020-04-10,234,3380,60.4
+London,April,2020-04-11,521,19204,215.6
+North West,April,2020-04-11,611,11676,160.1
+South East,April,2020-04-11,383,10097,110.5
+West Midlands,April,2020-04-11,253,7766,131.6
+East of England,April,2020-04-11,271,6320,101.9
+Yorkshire and The Humber,April,2020-04-11,261,5425,99
+East Midlands,April,2020-04-11,174,4313,89.8
+North East,April,2020-04-11,267,4285,161.2
+South West,April,2020-04-11,173,3553,63.4
+London,April,2020-04-12,501,19705,221.2
+North West,April,2020-04-12,488,12164,166.8
+South East,April,2020-04-12,486,10583,115.9
+West Midlands,April,2020-04-12,239,8005,135.7
+East of England,April,2020-04-12,259,6579,106.1
+Yorkshire and The Humber,April,2020-04-12,269,5694,103.9
+East Midlands,April,2020-04-12,214,4527,94.2
+North East,April,2020-04-12,201,4486,168.8
+South West,April,2020-04-12,179,3732,66.6
+London,April,2020-04-13,601,20306,228
+North West,April,2020-04-13,609,12773,175.2
+South East,April,2020-04-13,577,11160,122.2
+West Midlands,April,2020-04-13,280,8285,140.4
+East of England,April,2020-04-13,292,6871,110.8
+Yorkshire and The Humber,April,2020-04-13,326,6020,109.9
+North East,April,2020-04-13,232,4718,177.5
+East Midlands,April,2020-04-13,172,4699,97.8
+South West,April,2020-04-13,193,3925,70.1
+London,April,2020-04-14,604,20910,234.7
+North West,April,2020-04-14,633,13406,183.8
+South East,April,2020-04-14,553,11713,128.2
+West Midlands,April,2020-04-14,321,8606,145.8
+East of England,April,2020-04-14,289,7160,115.5
+Yorkshire and The Humber,April,2020-04-14,315,6335,115.6
+North East,April,2020-04-14,257,4975,187.2
+East Midlands,April,2020-04-14,210,4909,102.2
+South West,April,2020-04-14,185,4110,73.4
+London,April,2020-04-15,660,21570,242.1
+North West,April,2020-04-15,692,14098,193.3
+South East,April,2020-04-15,710,12423,136
+West Midlands,April,2020-04-15,387,8993,152.4
+East of England,April,2020-04-15,296,7456,120.2
+Yorkshire and The Humber,April,2020-04-15,473,6808,124.2
+North East,April,2020-04-15,284,5259,197.9
+East Midlands,April,2020-04-15,218,5127,106.7
+South West,April,2020-04-15,211,4321,77.2
+London,April,2020-04-16,577,22147,248.6
+North West,April,2020-04-16,779,14877,204
+South East,April,2020-04-16,655,13078,143.2
+West Midlands,April,2020-04-16,511,9504,161.1
+East of England,April,2020-04-16,337,7793,125.7
+Yorkshire and The Humber,April,2020-04-16,375,7183,131.1
+North East,April,2020-04-16,295,5554,209
+East Midlands,April,2020-04-16,267,5394,112.3
+South West,April,2020-04-16,262,4583,81.8
+London,April,2020-04-17,579,22726,255.1
+North West,April,2020-04-17,582,15459,212
+South East,April,2020-04-17,705,13783,150.9
+West Midlands,April,2020-04-17,447,9951,168.6
+East of England,April,2020-04-17,365,8158,131.6
+Yorkshire and The Humber,April,2020-04-17,351,7534,137.5
+North East,April,2020-04-17,293,5847,220
+East Midlands,April,2020-04-17,256,5650,117.6
+South West,April,2020-04-17,240,4823,86.1
+London,April,2020-04-18,402,23128,259.6
+North West,April,2020-04-18,859,16318,223.8
+South East,April,2020-04-18,520,14303,156.6
+West Midlands,April,2020-04-18,547,10498,177.9
+East of England,April,2020-04-18,329,8487,136.9
+Yorkshire and The Humber,April,2020-04-18,365,7899,144.2
+North East,April,2020-04-18,380,6227,234.3
+East Midlands,April,2020-04-18,195,5845,121.7
+South West,April,2020-04-18,168,4991,89.1
+London,April,2020-04-19,396,23524,264.1
+North West,April,2020-04-19,608,16926,232.1
+South East,April,2020-04-19,414,14717,161.1
+West Midlands,April,2020-04-19,340,10838,183.7
+East of England,April,2020-04-19,317,8804,142
+Yorkshire and The Humber,April,2020-04-19,417,8316,151.8
+North East,April,2020-04-19,276,6503,244.7
+East Midlands,April,2020-04-19,246,6091,126.8
+South West,April,2020-04-19,201,5192,92.7
+London,April,2020-04-20,432,23956,268.9
+North West,April,2020-04-20,675,17601,241.4
+South East,April,2020-04-20,488,15205,166.5
+West Midlands,April,2020-04-20,401,11239,190.5
+East of England,April,2020-04-20,365,9169,147.9
+Yorkshire and The Humber,April,2020-04-20,401,8717,159.1
+North East,April,2020-04-20,315,6818,256.5
+East Midlands,April,2020-04-20,187,6278,130.7
+South West,April,2020-04-20,181,5373,96
+London,April,2020-04-21,467,24423,274.2
+North West,April,2020-04-21,692,18293,250.9
+South East,April,2020-04-21,632,15837,173.4
+West Midlands,April,2020-04-21,491,11730,198.8
+East of England,April,2020-04-21,406,9575,154.4
+Yorkshire and The Humber,April,2020-04-21,350,9067,165.5
+North East,April,2020-04-21,288,7106,267.4
+East Midlands,April,2020-04-21,219,6497,135.2
+South West,April,2020-04-21,226,5599,100
+London,April,2020-04-22,397,24820,278.6
+North West,April,2020-04-22,911,19204,263.4
+South East,April,2020-04-22,693,16530,181
+West Midlands,April,2020-04-22,578,12308,208.6
+East of England,April,2020-04-22,522,10097,162.8
+Yorkshire and The Humber,April,2020-04-22,564,9631,175.8
+North East,April,2020-04-22,361,7467,280.9
+East Midlands,April,2020-04-22,334,6831,142.2
+South West,April,2020-04-22,286,5885,105.1
+London,April,2020-04-23,524,25344,284.5
+North West,April,2020-04-23,859,20063,275.1
+South East,April,2020-04-23,684,17214,188.5
+West Midlands,April,2020-04-23,551,12859,217.9
+East of England,April,2020-04-23,476,10573,170.5
+Yorkshire and The Humber,April,2020-04-23,450,10081,184
+North East,April,2020-04-23,330,7797,293.4
+East Midlands,April,2020-04-23,272,7103,147.9
+South West,April,2020-04-23,281,6166,110.1
+London,April,2020-04-24,379,25723,288.8
+North West,April,2020-04-24,751,20814,285.4
+South East,April,2020-04-24,656,17870,195.7
+West Midlands,April,2020-04-24,482,13341,226.1
+East of England,April,2020-04-24,424,10997,177.3
+Yorkshire and The Humber,April,2020-04-24,592,10673,194.8
+North East,April,2020-04-24,332,8129,305.8
+East Midlands,April,2020-04-24,298,7401,154.1
+South West,April,2020-04-24,250,6416,114.6
+London,April,2020-04-25,333,26056,292.5
+North West,April,2020-04-25,548,21362,292.9
+South East,April,2020-04-25,516,18386,201.3
+West Midlands,April,2020-04-25,386,13727,232.6
+East of England,April,2020-04-25,377,11374,183.4
+Yorkshire and The Humber,April,2020-04-25,414,11087,202.3
+North East,April,2020-04-25,215,8344,313.9
+East Midlands,April,2020-04-25,245,7646,159.2
+South West,April,2020-04-25,200,6616,118.1
+London,April,2020-04-26,311,26367,296
+North West,April,2020-04-26,428,21790,298.8
+South East,April,2020-04-26,501,18887,206.8
+West Midlands,April,2020-04-26,315,14042,238
+East of England,April,2020-04-26,358,11732,189.2
+Yorkshire and The Humber,April,2020-04-26,422,11509,210
+North East,April,2020-04-26,159,8503,319.9
+East Midlands,April,2020-04-26,243,7889,164.2
+South West,April,2020-04-26,254,6870,122.7
+London,April,2020-04-27,417,26784,300.7
+North West,April,2020-04-27,623,22413,307.4
+South East,April,2020-04-27,555,19442,212.9
+West Midlands,April,2020-04-27,417,14459,245
+East of England,April,2020-04-27,512,12244,197.4
+Yorkshire and The Humber,April,2020-04-27,510,12019,219.3
+North East,April,2020-04-27,284,8787,330.6
+East Midlands,April,2020-04-27,319,8208,170.9
+South West,April,2020-04-27,320,7190,128.4
+London,April,2020-04-28,311,27095,304.2
+North West,April,2020-04-28,708,23121,317.1
+South East,April,2020-04-28,657,20099,220.1
+West Midlands,April,2020-04-28,378,14837,251.4
+East of England,April,2020-04-28,462,12706,204.9
+Yorkshire and The Humber,April,2020-04-28,486,12505,228.2
+North East,April,2020-04-28,360,9147,344.1
+East Midlands,April,2020-04-28,272,8480,176.5
+South West,April,2020-04-28,275,7465,133.3
+London,April,2020-04-29,431,27526,309
+North West,April,2020-04-29,796,23917,328
+South East,April,2020-04-29,690,20789,227.6
+West Midlands,April,2020-04-29,441,15278,258.9
+Yorkshire and The Humber,April,2020-04-29,712,13217,241.2
+East of England,April,2020-04-29,474,13180,212.5
+North East,April,2020-04-29,360,9507,357.7
+East Midlands,April,2020-04-29,378,8858,184.4
+South West,April,2020-04-29,348,7813,139.5
+London,April,2020-04-30,425,27951,313.8
+North West,April,2020-04-30,772,24689,338.6
+South East,April,2020-04-30,650,21439,234.7
+West Midlands,April,2020-04-30,451,15729,266.6
+Yorkshire and The Humber,April,2020-04-30,579,13796,251.8
+East of England,April,2020-04-30,425,13605,219.4
+North East,April,2020-04-30,383,9890,372.1
+East Midlands,April,2020-04-30,294,9152,190.5
+South West,April,2020-04-30,244,8057,143.9
+London,May,2020-05-01,356,28307,317.8
+North West,May,2020-05-01,726,25415,348.5
+South East,May,2020-05-01,521,21960,240.4
+West Midlands,May,2020-05-01,469,16198,274.5
+Yorkshire and The Humber,May,2020-05-01,622,14418,263.1
+East of England,May,2020-05-01,494,14099,227.4
+North East,May,2020-05-01,273,10163,382.4
+East Midlands,May,2020-05-01,294,9446,196.6
+South West,May,2020-05-01,264,8321,148.6
+London,May,2020-05-02,249,28556,320.6
+North West,May,2020-05-02,410,25825,354.2
+South East,May,2020-05-02,414,22374,245
+West Midlands,May,2020-05-02,319,16517,279.9
+Yorkshire and The Humber,May,2020-05-02,385,14803,270.1
+East of England,May,2020-05-02,302,14401,232.2
+North East,May,2020-05-02,183,10346,389.3
+East Midlands,May,2020-05-02,198,9644,200.7
+South West,May,2020-05-02,208,8529,152.3
+London,May,2020-05-03,167,28723,322.4
+North West,May,2020-05-03,492,26317,360.9
+South East,May,2020-05-03,368,22742,249
+West Midlands,May,2020-05-03,298,16815,285
+Yorkshire and The Humber,May,2020-05-03,383,15186,277.1
+East of England,May,2020-05-03,317,14718,237.3
+North East,May,2020-05-03,163,10509,395.4
+East Midlands,May,2020-05-03,169,9813,204.3
+South West,May,2020-05-03,176,8705,155.5
+London,May,2020-05-04,245,28968,325.2
+North West,May,2020-05-04,427,26744,366.8
+South East,May,2020-05-04,489,23231,254.3
+West Midlands,May,2020-05-04,235,17050,288.9
+Yorkshire and The Humber,May,2020-05-04,350,15536,283.5
+East of England,May,2020-05-04,392,15110,243.7
+North East,May,2020-05-04,233,10742,404.2
+East Midlands,May,2020-05-04,235,10048,209.2
+South West,May,2020-05-04,166,8871,158.4
+London,May,2020-05-05,221,29189,327.7
+North West,May,2020-05-05,576,27320,374.7
+South East,May,2020-05-05,473,23704,259.5
+West Midlands,May,2020-05-05,318,17368,294.3
+Yorkshire and The Humber,May,2020-05-05,440,15976,291.6
+East of England,May,2020-05-05,332,15442,249
+North East,May,2020-05-05,251,10993,413.6
+East Midlands,May,2020-05-05,284,10332,215.1
+South West,May,2020-05-05,173,9044,161.5
+London,May,2020-05-06,267,29456,330.7
+North West,May,2020-05-06,585,27905,382.7
+South East,May,2020-05-06,445,24149,264.4
+West Midlands,May,2020-05-06,314,17682,299.7
+Yorkshire and The Humber,May,2020-05-06,413,16389,299.1
+East of England,May,2020-05-06,388,15830,255.3
+North East,May,2020-05-06,243,11236,422.7
+East Midlands,May,2020-05-06,334,10666,222
+South West,May,2020-05-06,201,9245,165.1
+London,May,2020-05-07,271,29727,333.7
+North West,May,2020-05-07,509,28414,389.7
+South East,May,2020-05-07,418,24567,269
+West Midlands,May,2020-05-07,368,18050,305.9
+Yorkshire and The Humber,May,2020-05-07,458,16847,307.4
+East of England,May,2020-05-07,396,16226,261.7
+North East,May,2020-05-07,199,11435,430.2
+East Midlands,May,2020-05-07,313,10979,228.5
+South West,May,2020-05-07,180,9425,168.3
+London,May,2020-05-08,207,29934,336
+North West,May,2020-05-08,483,28897,396.3
+South East,May,2020-05-08,354,24921,272.8
+West Midlands,May,2020-05-08,340,18390,311.7
+Yorkshire and The Humber,May,2020-05-08,352,17199,313.9
+East of England,May,2020-05-08,230,16456,265.4
+North East,May,2020-05-08,159,11594,436.2
+East Midlands,May,2020-05-08,268,11247,234.1
+South West,May,2020-05-08,178,9603,171.5
+London,May,2020-05-09,127,30061,337.5
+North West,May,2020-05-09,344,29241,401
+South East,May,2020-05-09,248,25169,275.6
+West Midlands,May,2020-05-09,163,18553,314.4
+Yorkshire and The Humber,May,2020-05-09,245,17444,318.3
+East of England,May,2020-05-09,202,16658,268.6
+North East,May,2020-05-09,150,11744,441.9
+East Midlands,May,2020-05-09,176,11423,237.8
+South West,May,2020-05-09,107,9710,173.4
+London,May,2020-05-10,125,30186,338.9
+North West,May,2020-05-10,347,29588,405.8
+South East,May,2020-05-10,310,25479,279
+West Midlands,May,2020-05-10,218,18771,318.1
+Yorkshire and The Humber,May,2020-05-10,296,17740,323.7
+East of England,May,2020-05-10,208,16866,272
+North East,May,2020-05-10,150,11894,447.5
+East Midlands,May,2020-05-10,198,11621,241.9
+South West,May,2020-05-10,134,9844,175.8
+London,May,2020-05-11,160,30346,340.7
+North West,May,2020-05-11,529,30117,413
+South East,May,2020-05-11,483,25962,284.2
+West Midlands,May,2020-05-11,250,19021,322.3
+Yorkshire and The Humber,May,2020-05-11,425,18165,331.5
+East of England,May,2020-05-11,390,17256,278.3
+North East,May,2020-05-11,228,12122,456.1
+East Midlands,May,2020-05-11,308,11929,248.3
+South West,May,2020-05-11,255,10099,180.3
+North West,May,2020-05-12,549,30666,420.5
+London,May,2020-05-12,196,30542,342.9
+South East,May,2020-05-12,410,26372,288.7
+West Midlands,May,2020-05-12,309,19330,327.6
+Yorkshire and The Humber,May,2020-05-12,375,18540,338.3
+East of England,May,2020-05-12,315,17571,283.3
+North East,May,2020-05-12,220,12342,464.3
+East Midlands,May,2020-05-12,320,12249,255
+South West,May,2020-05-12,177,10276,183.5
+North West,May,2020-05-13,525,31191,427.7
+London,May,2020-05-13,204,30746,345.1
+South East,May,2020-05-13,483,26855,294
+West Midlands,May,2020-05-13,244,19574,331.7
+Yorkshire and The Humber,May,2020-05-13,404,18944,345.7
+East of England,May,2020-05-13,329,17900,288.7
+East Midlands,May,2020-05-13,298,12547,261.2
+North East,May,2020-05-13,144,12486,469.8
+South West,May,2020-05-13,176,10452,186.7
+North West,May,2020-05-14,426,31617,433.6
+London,May,2020-05-14,157,30903,346.9
+South East,May,2020-05-14,295,27150,297.3
+West Midlands,May,2020-05-14,258,19832,336.1
+Yorkshire and The Humber,May,2020-05-14,356,19300,352.2
+East of England,May,2020-05-14,217,18117,292.2
+East Midlands,May,2020-05-14,225,12772,265.9
+North East,May,2020-05-14,138,12624,475
+South West,May,2020-05-14,93,10545,188.3
+North West,May,2020-05-15,391,32008,438.9
+London,May,2020-05-15,131,31034,348.4
+South East,May,2020-05-15,262,27412,300.1
+West Midlands,May,2020-05-15,263,20095,340.5
+Yorkshire and The Humber,May,2020-05-15,336,19636,358.3
+East of England,May,2020-05-15,211,18328,295.6
+East Midlands,May,2020-05-15,252,13024,271.1
+North East,May,2020-05-15,137,12761,480.1
+South West,May,2020-05-15,103,10648,190.2
+North West,May,2020-05-16,407,32415,444.5
+London,May,2020-05-16,74,31108,349.2
+South East,May,2020-05-16,193,27605,302.2
+West Midlands,May,2020-05-16,175,20270,343.5
+Yorkshire and The Humber,May,2020-05-16,259,19895,363.1
+East of England,May,2020-05-16,175,18503,298.4
+East Midlands,May,2020-05-16,257,13281,276.4
+North East,May,2020-05-16,126,12887,484.9
+South West,May,2020-05-16,91,10739,191.8
+North West,May,2020-05-17,303,32718,448.7
+London,May,2020-05-17,79,31187,350.1
+South East,May,2020-05-17,224,27829,304.7
+West Midlands,May,2020-05-17,172,20442,346.4
+Yorkshire and The Humber,May,2020-05-17,244,20139,367.5
+East of England,May,2020-05-17,153,18656,300.8
+East Midlands,May,2020-05-17,203,13484,280.7
+North East,May,2020-05-17,98,12985,488.5
+South West,May,2020-05-17,97,10836,193.5
+North West,May,2020-05-18,410,33128,454.3
+London,May,2020-05-18,111,31298,351.3
+South East,May,2020-05-18,363,28192,308.7
+West Midlands,May,2020-05-18,207,20649,349.9
+Yorkshire and The Humber,May,2020-05-18,261,20400,372.3
+East of England,May,2020-05-18,283,18939,305.4
+East Midlands,May,2020-05-18,271,13755,286.3
+North East,May,2020-05-18,147,13132,494.1
+South West,May,2020-05-18,119,10955,195.6
+North West,May,2020-05-19,580,33708,462.3
+London,May,2020-05-19,131,31429,352.8
+South East,May,2020-05-19,385,28577,312.9
+West Midlands,May,2020-05-19,278,20927,354.6
+Yorkshire and The Humber,May,2020-05-19,386,20786,379.3
+East of England,May,2020-05-19,253,19192,309.5
+East Midlands,May,2020-05-19,293,14048,292.4
+North East,May,2020-05-19,123,13255,498.7
+South West,May,2020-05-19,108,11063,197.6
+North West,May,2020-05-20,499,34207,469.1
+London,May,2020-05-20,144,31573,354.4
+South East,May,2020-05-20,344,28921,316.6
+West Midlands,May,2020-05-20,253,21180,358.9
+Yorkshire and The Humber,May,2020-05-20,296,21082,384.7
+East of England,May,2020-05-20,242,19434,313.4
+East Midlands,May,2020-05-20,274,14322,298.1
+North East,May,2020-05-20,131,13386,503.6
+South West,May,2020-05-20,137,11200,200
+North West,May,2020-05-21,426,34633,474.9
+London,May,2020-05-21,158,31731,356.2
+South East,May,2020-05-21,303,29224,320
+Yorkshire and The Humber,May,2020-05-21,382,21464,391.7
+West Midlands,May,2020-05-21,225,21405,362.8
+East of England,May,2020-05-21,246,19680,317.4
+East Midlands,May,2020-05-21,279,14601,303.9
+North East,May,2020-05-21,130,13516,508.5
+South West,May,2020-05-21,88,11288,201.6
+North West,May,2020-05-22,376,35009,480.1
+London,May,2020-05-22,85,31816,357.2
+South East,May,2020-05-22,246,29470,322.7
+Yorkshire and The Humber,May,2020-05-22,267,21731,396.6
+West Midlands,May,2020-05-22,195,21600,366.1
+East of England,May,2020-05-22,190,19870,320.4
+East Midlands,May,2020-05-22,240,14841,308.9
+North East,May,2020-05-22,94,13610,512.1
+South West,May,2020-05-22,82,11370,203
+North West,May,2020-05-23,288,35297,484
+London,May,2020-05-23,65,31881,357.9
+South East,May,2020-05-23,120,29590,324
+Yorkshire and The Humber,May,2020-05-23,235,21966,400.9
+West Midlands,May,2020-05-23,148,21748,368.6
+East of England,May,2020-05-23,151,20021,322.9
+East Midlands,May,2020-05-23,164,15005,312.3
+North East,May,2020-05-23,74,13684,514.8
+South West,May,2020-05-23,41,11411,203.8
+North West,May,2020-05-24,262,35559,487.6
+London,May,2020-05-24,51,31932,358.5
+South East,May,2020-05-24,150,29740,325.6
+Yorkshire and The Humber,May,2020-05-24,204,22170,404.6
+West Midlands,May,2020-05-24,134,21882,370.8
+East of England,May,2020-05-24,102,20123,324.5
+East Midlands,May,2020-05-24,145,15150,315.4
+North East,May,2020-05-24,77,13761,517.7
+South West,May,2020-05-24,59,11470,204.8
+North West,May,2020-05-25,268,35827,491.3
+London,May,2020-05-25,58,31990,359.1
+South East,May,2020-05-25,187,29927,327.7
+Yorkshire and The Humber,May,2020-05-25,253,22423,409.2
+West Midlands,May,2020-05-25,138,22020,373.2
+East of England,May,2020-05-25,148,20271,326.9
+East Midlands,May,2020-05-25,192,15342,319.3
+North East,May,2020-05-25,60,13821,520
+South West,May,2020-05-25,61,11531,205.9
+North West,May,2020-05-26,310,36137,495.6
+London,May,2020-05-26,66,32056,359.9
+South East,May,2020-05-26,181,30108,329.6
+Yorkshire and The Humber,May,2020-05-26,232,22655,413.4
+West Midlands,May,2020-05-26,151,22171,375.7
+East of England,May,2020-05-26,149,20420,329.3
+East Midlands,May,2020-05-26,160,15502,322.7
+North East,May,2020-05-26,100,13921,523.8
+South West,May,2020-05-26,82,11613,207.4
+North West,May,2020-05-27,294,36431,499.6
+London,May,2020-05-27,83,32139,360.8
+South East,May,2020-05-27,202,30310,331.9
+Yorkshire and The Humber,May,2020-05-27,254,22909,418.1
+West Midlands,May,2020-05-27,194,22365,379
+East of England,May,2020-05-27,146,20566,331.6
+East Midlands,May,2020-05-27,197,15699,326.8
+North East,May,2020-05-27,115,14036,528.1
+South West,May,2020-05-27,105,11718,209.3
+North West,May,2020-05-28,325,36756,504.1
+London,May,2020-05-28,73,32212,361.6
+South East,May,2020-05-28,201,30511,334.1
+Yorkshire and The Humber,May,2020-05-28,274,23183,423.1
+West Midlands,May,2020-05-28,155,22520,381.6
+East of England,May,2020-05-28,150,20716,334.1
+East Midlands,May,2020-05-28,191,15890,330.8
+North East,May,2020-05-28,49,14085,529.9
+South West,May,2020-05-28,115,11833,211.3
+North West,May,2020-05-29,303,37059,508.2
+London,May,2020-05-29,57,32269,362.2
+South East,May,2020-05-29,163,30674,335.8
+Yorkshire and The Humber,May,2020-05-29,200,23383,426.7
+West Midlands,May,2020-05-29,155,22675,384.3
+East of England,May,2020-05-29,150,20866,336.5
+East Midlands,May,2020-05-29,170,16060,334.3
+North East,May,2020-05-29,70,14155,532.6
+South West,May,2020-05-29,73,11906,212.6
+North West,May,2020-05-30,216,37275,511.2
+London,May,2020-05-30,38,32307,362.7
+South East,May,2020-05-30,132,30806,337.3
+Yorkshire and The Humber,May,2020-05-30,164,23547,429.7
+West Midlands,May,2020-05-30,116,22791,386.2
+East of England,May,2020-05-30,75,20941,337.7
+East Midlands,May,2020-05-30,139,16199,337.2
+North East,May,2020-05-30,47,14202,534.3
+South West,May,2020-05-30,51,11957,213.5
+North West,May,2020-05-31,234,37509,514.4
+London,May,2020-05-31,38,32345,363.1
+South East,May,2020-05-31,134,30940,338.7
+Yorkshire and The Humber,May,2020-05-31,176,23723,432.9
+West Midlands,May,2020-05-31,77,22868,387.5
+East of England,May,2020-05-31,54,20995,338.6
+East Midlands,May,2020-05-31,149,16348,340.3
+North East,May,2020-05-31,46,14248,536.1
+South West,May,2020-05-31,62,12019,214.6
+North West,June,2020-06-01,261,37770,518
+London,June,2020-06-01,49,32394,363.6
+South East,June,2020-06-01,184,31124,340.8
+Yorkshire and The Humber,June,2020-06-01,191,23914,436.4
+West Midlands,June,2020-06-01,125,22993,389.7
+East of England,June,2020-06-01,131,21126,340.7
+East Midlands,June,2020-06-01,217,16565,344.8
+North East,June,2020-06-01,70,14318,538.7
+South West,June,2020-06-01,52,12071,215.6
+North West,June,2020-06-02,286,38056,521.9
+London,June,2020-06-02,47,32441,364.2
+South East,June,2020-06-02,221,31345,343.2
+Yorkshire and The Humber,June,2020-06-02,197,24111,440
+West Midlands,June,2020-06-02,126,23119,391.8
+East of England,June,2020-06-02,122,21248,342.6
+East Midlands,June,2020-06-02,219,16784,349.4
+North East,June,2020-06-02,59,14377,540.9
+South West,June,2020-06-02,51,12122,216.5
+North West,June,2020-06-03,255,38311,525.4
+London,June,2020-06-03,79,32520,365.1
+South East,June,2020-06-03,137,31482,344.7
+Yorkshire and The Humber,June,2020-06-03,206,24317,443.8
+West Midlands,June,2020-06-03,125,23244,393.9
+East of England,June,2020-06-03,112,21360,344.4
+East Midlands,June,2020-06-03,171,16955,352.9
+North East,June,2020-06-03,51,14428,542.8
+South West,June,2020-06-03,70,12192,217.7
+North West,June,2020-06-04,237,38548,528.6
+London,June,2020-06-04,57,32577,365.7
+South East,June,2020-06-04,160,31642,346.4
+Yorkshire and The Humber,June,2020-06-04,178,24495,447
+West Midlands,June,2020-06-04,136,23380,396.2
+East of England,June,2020-06-04,87,21447,345.9
+East Midlands,June,2020-06-04,143,17098,355.9
+North East,June,2020-06-04,60,14488,545.1
+South West,June,2020-06-04,67,12259,218.9
+North West,June,2020-06-05,203,38751,531.4
+London,June,2020-06-05,47,32624,366.2
+South East,June,2020-06-05,141,31783,348
+Yorkshire and The Humber,June,2020-06-05,155,24650,449.8
+West Midlands,June,2020-06-05,102,23482,397.9
+East of England,June,2020-06-05,103,21550,347.5
+East Midlands,June,2020-06-05,154,17252,359.1
+North East,June,2020-06-05,42,14530,546.7
+South West,June,2020-06-05,52,12311,219.8
+North West,June,2020-06-06,132,38883,533.2
+London,June,2020-06-06,46,32670,366.7
+South East,June,2020-06-06,85,31868,348.9
+Yorkshire and The Humber,June,2020-06-06,121,24771,452.1
+West Midlands,June,2020-06-06,77,23559,399.3
+East of England,June,2020-06-06,88,21638,348.9
+East Midlands,June,2020-06-06,105,17357,361.3
+North East,June,2020-06-06,28,14558,547.7
+South West,June,2020-06-06,23,12334,220.3
+North West,June,2020-06-07,129,39012,535
+London,June,2020-06-07,45,32715,367.3
+South East,June,2020-06-07,60,31928,349.6
+Yorkshire and The Humber,June,2020-06-07,150,24921,454.8
+West Midlands,June,2020-06-07,64,23623,400.3
+East of England,June,2020-06-07,48,21686,349.7
+East Midlands,June,2020-06-07,129,17486,364
+North East,June,2020-06-07,17,14575,548.4
+South West,June,2020-06-07,19,12353,220.6
+North West,June,2020-06-08,165,39177,537.3
+London,June,2020-06-08,56,32771,367.9
+South East,June,2020-06-08,122,32050,350.9
+Yorkshire and The Humber,June,2020-06-08,188,25109,458.2
+West Midlands,June,2020-06-08,120,23743,402.4
+East of England,June,2020-06-08,97,21783,351.3
+East Midlands,June,2020-06-08,174,17660,367.6
+North East,June,2020-06-08,34,14609,549.6
+South West,June,2020-06-08,23,12376,221
+North West,June,2020-06-09,218,39395,540.2
+London,June,2020-06-09,71,32842,368.7
+South East,June,2020-06-09,113,32163,352.1
+Yorkshire and The Humber,June,2020-06-09,172,25281,461.4
+West Midlands,June,2020-06-09,101,23844,404.1
+East of England,June,2020-06-09,134,21917,353.4
+East Midlands,June,2020-06-09,177,17837,371.3
+North East,June,2020-06-09,40,14649,551.1
+South West,June,2020-06-09,25,12401,221.5
+North West,June,2020-06-10,225,39620,543.3
+London,June,2020-06-10,53,32895,369.3
+South East,June,2020-06-10,126,32289,353.5
+Yorkshire and The Humber,June,2020-06-10,226,25507,465.5
+West Midlands,June,2020-06-10,92,23936,405.6
+East of England,June,2020-06-10,122,22039,355.4
+East Midlands,June,2020-06-10,166,18003,374.7
+North East,June,2020-06-10,38,14687,552.6
+South West,June,2020-06-10,31,12432,222
+North West,June,2020-06-11,176,39796,545.7
+London,June,2020-06-11,47,32942,369.8
+South East,June,2020-06-11,93,32382,354.5
+Yorkshire and The Humber,June,2020-06-11,196,25703,469.1
+West Midlands,June,2020-06-11,93,24029,407.2
+East of England,June,2020-06-11,74,22113,356.6
+East Midlands,June,2020-06-11,182,18185,378.5
+North East,June,2020-06-11,23,14710,553.4
+South West,June,2020-06-11,25,12457,222.5
+North West,June,2020-06-12,169,39965,548.1
+London,June,2020-06-12,53,32995,370.4
+South East,June,2020-06-12,85,32467,355.5
+Yorkshire and The Humber,June,2020-06-12,246,25949,473.6
+West Midlands,June,2020-06-12,77,24106,408.5
+East of England,June,2020-06-12,68,22181,357.7
+East Midlands,June,2020-06-12,173,18358,382.1
+North East,June,2020-06-12,40,14750,554.9
+South West,June,2020-06-12,19,12476,222.8
+North West,June,2020-06-13,128,40093,549.8
+London,June,2020-06-13,39,33034,370.8
+South East,June,2020-06-13,66,32533,356.2
+Yorkshire and The Humber,June,2020-06-13,193,26142,477.1
+West Midlands,June,2020-06-13,87,24193,410
+East of England,June,2020-06-13,92,22273,359.2
+East Midlands,June,2020-06-13,132,18490,384.9
+North East,June,2020-06-13,31,14781,556.1
+South West,June,2020-06-13,14,12490,223
+North West,June,2020-06-14,148,40241,551.8
+London,June,2020-06-14,31,33065,371.2
+South East,June,2020-06-14,72,32605,357
+Yorkshire and The Humber,June,2020-06-14,159,26301,480
+West Midlands,June,2020-06-14,75,24268,411.3
+East of England,June,2020-06-14,73,22346,360.3
+East Midlands,June,2020-06-14,145,18635,387.9
+North East,June,2020-06-14,31,14812,557.3
+South West,June,2020-06-14,9,12499,223.2
+North West,June,2020-06-15,165,40406,554.1
+London,June,2020-06-15,41,33106,371.6
+South East,June,2020-06-15,98,32703,358.1
+Yorkshire and The Humber,June,2020-06-15,189,26490,483.4
+West Midlands,June,2020-06-15,102,24370,413
+East of England,June,2020-06-15,112,22458,362.2
+East Midlands,June,2020-06-15,164,18799,391.3
+North East,June,2020-06-15,32,14844,558.5
+South West,June,2020-06-15,20,12519,223.6
+North West,June,2020-06-16,211,40617,557
+London,June,2020-06-16,47,33153,372.2
+South East,June,2020-06-16,96,32799,359.1
+Yorkshire and The Humber,June,2020-06-16,216,26706,487.4
+West Midlands,June,2020-06-16,106,24476,414.8
+East of England,June,2020-06-16,107,22565,363.9
+East Midlands,June,2020-06-16,161,18960,394.7
+North East,June,2020-06-16,18,14862,559.2
+South West,June,2020-06-16,15,12534,223.8
+North West,June,2020-06-17,183,40800,559.5
+London,June,2020-06-17,43,33196,372.7
+South East,June,2020-06-17,82,32881,360
+Yorkshire and The Humber,June,2020-06-17,230,26936,491.6
+West Midlands,June,2020-06-17,80,24556,416.1
+East of England,June,2020-06-17,77,22642,365.1
+East Midlands,June,2020-06-17,164,19124,398.1
+North East,June,2020-06-17,19,14881,559.9
+South West,June,2020-06-17,16,12550,224.1
+North West,June,2020-06-18,178,40978,562
+London,June,2020-06-18,46,33242,373.2
+South East,June,2020-06-18,75,32956,360.8
+Yorkshire and The Humber,June,2020-06-18,257,27193,496.3
+West Midlands,June,2020-06-18,82,24638,417.5
+East of England,June,2020-06-18,83,22725,366.5
+East Midlands,June,2020-06-18,169,19293,401.6
+North East,June,2020-06-18,23,14904,560.7
+South West,June,2020-06-18,13,12563,224.3
+North West,June,2020-06-19,166,41144,564.2
+London,June,2020-06-19,37,33279,373.6
+South East,June,2020-06-19,78,33034,361.7
+Yorkshire and The Humber,June,2020-06-19,202,27395,499.9
+West Midlands,June,2020-06-19,52,24690,418.4
+East of England,June,2020-06-19,74,22799,367.7
+East Midlands,June,2020-06-19,153,19446,404.8
+North East,June,2020-06-19,14,14918,561.3
+South West,June,2020-06-19,24,12587,224.8
+North West,June,2020-06-20,118,41262,565.8
+London,June,2020-06-20,28,33307,373.9
+South East,June,2020-06-20,66,33100,362.4
+Yorkshire and The Humber,June,2020-06-20,161,27556,502.9
+West Midlands,June,2020-06-20,49,24739,419.3
+East of England,June,2020-06-20,30,22829,368.1
+East Midlands,June,2020-06-20,145,19591,407.8
+North East,June,2020-06-20,17,14935,561.9
+South West,June,2020-06-20,8,12595,224.9
+North West,June,2020-06-21,100,41362,567.2
+London,June,2020-06-21,27,33334,374.2
+South East,June,2020-06-21,67,33167,363.1
+Yorkshire and The Humber,June,2020-06-21,116,27672,505
+West Midlands,June,2020-06-21,37,24776,419.9
+East of England,June,2020-06-21,57,22886,369.1
+East Midlands,June,2020-06-21,131,19722,410.5
+North East,June,2020-06-21,4,14939,562.1
+South West,June,2020-06-21,8,12603,225.1
+North West,June,2020-06-22,158,41520,569.4
+London,June,2020-06-22,51,33385,374.8
+South East,June,2020-06-22,77,33244,364
+Yorkshire and The Humber,June,2020-06-22,156,27828,507.8
+West Midlands,June,2020-06-22,68,24844,421
+East of England,June,2020-06-22,73,22959,370.2
+East Midlands,June,2020-06-22,177,19899,414.2
+North East,June,2020-06-22,24,14963,563
+South West,June,2020-06-22,19,12622,225.4
+North West,June,2020-06-23,127,41647,571.1
+London,June,2020-06-23,49,33434,375.3
+South East,June,2020-06-23,59,33303,364.6
+Yorkshire and The Humber,June,2020-06-23,171,27999,511
+West Midlands,June,2020-06-23,53,24897,421.9
+East of England,June,2020-06-23,44,23003,370.9
+East Midlands,June,2020-06-23,171,20070,417.8
+North East,June,2020-06-23,26,14989,563.9
+South West,June,2020-06-23,15,12637,225.7
+North West,June,2020-06-24,159,41806,573.3
+London,June,2020-06-24,46,33480,375.8
+South East,June,2020-06-24,44,33347,365.1
+Yorkshire and The Humber,June,2020-06-24,157,28156,513.8
+West Midlands,June,2020-06-24,54,24951,422.8
+East of England,June,2020-06-24,59,23062,371.9
+East Midlands,June,2020-06-24,173,20243,421.4
+North East,June,2020-06-24,11,15000,564.4
+South West,June,2020-06-24,16,12653,226
+North West,June,2020-06-25,125,41931,575
+London,June,2020-06-25,57,33537,376.5
+South East,June,2020-06-25,65,33412,365.8
+Yorkshire and The Humber,June,2020-06-25,143,28299,516.4
+West Midlands,June,2020-06-25,55,25006,423.8
+East of England,June,2020-06-25,39,23101,372.5
+East Midlands,June,2020-06-25,126,20369,424
+North East,June,2020-06-25,12,15012,564.8
+South West,June,2020-06-25,8,12661,226.1
+North West,June,2020-06-26,105,42036,576.5
+London,June,2020-06-26,47,33584,377
+South East,June,2020-06-26,65,33477,366.5
+Yorkshire and The Humber,June,2020-06-26,152,28451,519.2
+West Midlands,June,2020-06-26,69,25075,424.9
+East of England,June,2020-06-26,59,23160,373.5
+East Midlands,June,2020-06-26,114,20483,426.4
+North East,June,2020-06-26,8,15020,565.1
+South West,June,2020-06-26,12,12673,226.3
+North West,June,2020-06-27,93,42129,577.7
+London,June,2020-06-27,32,33616,377.4
+South East,June,2020-06-27,53,33530,367.1
+Yorkshire and The Humber,June,2020-06-27,149,28600,521.9
+West Midlands,June,2020-06-27,43,25118,425.7
+East of England,June,2020-06-27,20,23180,373.8
+East Midlands,June,2020-06-27,86,20569,428.2
+North East,June,2020-06-27,13,15033,565.6
+South West,June,2020-06-27,8,12681,226.5
+North West,June,2020-06-28,95,42224,579
+London,June,2020-06-28,22,33638,377.6
+South East,June,2020-06-28,45,33575,367.6
+Yorkshire and The Humber,June,2020-06-28,97,28697,523.7
+West Midlands,June,2020-06-28,26,25144,426.1
+East of England,June,2020-06-28,24,23204,374.2
+East Midlands,June,2020-06-28,78,20647,429.8
+North East,June,2020-06-28,9,15042,565.9
+South West,June,2020-06-28,11,12692,226.7
+North West,June,2020-06-29,123,42347,580.7
+London,June,2020-06-29,56,33694,378.2
+South East,June,2020-06-29,79,33654,368.5
+Yorkshire and The Humber,June,2020-06-29,133,28830,526.1
+West Midlands,June,2020-06-29,57,25201,427.1
+East of England,June,2020-06-29,48,23252,375
+East Midlands,June,2020-06-29,129,20776,432.5
+North East,June,2020-06-29,11,15053,566.3
+South West,June,2020-06-29,16,12708,226.9
+North West,June,2020-06-30,104,42451,582.2
+London,June,2020-06-30,52,33746,378.8
+South East,June,2020-06-30,57,33711,369.1
+Yorkshire and The Humber,June,2020-06-30,112,28942,528.2
+West Midlands,June,2020-06-30,51,25252,427.9
+East of England,June,2020-06-30,33,23285,375.5
+East Midlands,June,2020-06-30,129,20905,435.1
+North East,June,2020-06-30,11,15064,566.8
+South West,June,2020-06-30,18,12726,227.3
+North West,July,2020-07-01,113,42564,583.7
+London,July,2020-07-01,43,33789,379.3
+South East,July,2020-07-01,68,33779,369.8
+Yorkshire and The Humber,July,2020-07-01,132,29074,530.6
+West Midlands,July,2020-07-01,50,25302,428.8
+East of England,July,2020-07-01,39,23324,376.1
+East Midlands,July,2020-07-01,120,21025,437.6
+North East,July,2020-07-01,7,15071,567
+South West,July,2020-07-01,23,12749,227.7
+North West,July,2020-07-02,97,42661,585
+South East,July,2020-07-02,60,33839,370.5
+London,July,2020-07-02,34,33823,379.7
+Yorkshire and The Humber,July,2020-07-02,104,29178,532.5
+West Midlands,July,2020-07-02,54,25356,429.7
+East of England,July,2020-07-02,63,23387,377.1
+East Midlands,July,2020-07-02,105,21130,439.8
+North East,July,2020-07-02,9,15080,567.4
+South West,July,2020-07-02,11,12760,227.9
+North West,July,2020-07-03,96,42757,586.3
+South East,July,2020-07-03,65,33904,371.2
+London,July,2020-07-03,38,33861,380.1
+Yorkshire and The Humber,July,2020-07-03,106,29284,534.4
+West Midlands,July,2020-07-03,41,25397,430.4
+East of England,July,2020-07-03,60,23447,378.1
+East Midlands,July,2020-07-03,106,21236,442
+North East,July,2020-07-03,8,15088,567.7
+South West,July,2020-07-03,8,12768,228
+North West,July,2020-07-04,70,42827,587.3
+South East,July,2020-07-04,29,33933,371.5
+London,July,2020-07-04,32,33893,380.5
+Yorkshire and The Humber,July,2020-07-04,77,29361,535.8
+West Midlands,July,2020-07-04,23,25420,430.8
+East of England,July,2020-07-04,40,23487,378.7
+East Midlands,July,2020-07-04,87,21323,443.8
+North East,July,2020-07-04,9,15097,568
+South West,July,2020-07-04,9,12777,228.2
+North West,July,2020-07-05,111,42938,588.8
+South East,July,2020-07-05,57,33990,372.1
+London,July,2020-07-05,49,33942,381
+Yorkshire and The Humber,July,2020-07-05,90,29451,537.5
+West Midlands,July,2020-07-05,34,25454,431.4
+East of England,July,2020-07-05,35,23522,379.3
+East Midlands,July,2020-07-05,127,21450,446.5
+North East,July,2020-07-05,4,15101,568.2
+South West,July,2020-07-05,17,12794,228.5
+North West,July,2020-07-06,136,43074,590.7
+South East,July,2020-07-06,40,34030,372.6
+London,July,2020-07-06,47,33989,381.6
+Yorkshire and The Humber,July,2020-07-06,119,29570,539.6
+West Midlands,July,2020-07-06,50,25504,432.2
+East of England,July,2020-07-06,53,23575,380.2
+East Midlands,July,2020-07-06,135,21585,449.3
+North East,July,2020-07-06,11,15112,568.6
+South West,July,2020-07-06,19,12813,228.8
+North West,July,2020-07-07,87,43161,591.9
+South East,July,2020-07-07,51,34081,373.1
+London,July,2020-07-07,54,34043,382.2
+Yorkshire and The Humber,July,2020-07-07,92,29662,541.3
+West Midlands,July,2020-07-07,57,25561,433.2
+East of England,July,2020-07-07,31,23606,380.7
+East Midlands,July,2020-07-07,100,21685,451.4
+North East,July,2020-07-07,12,15124,569
+South West,July,2020-07-07,14,12827,229.1
+North West,July,2020-07-08,100,43261,593.3
+South East,July,2020-07-08,63,34144,373.8
+London,July,2020-07-08,39,34082,382.6
+Yorkshire and The Humber,July,2020-07-08,103,29765,543.2
+West Midlands,July,2020-07-08,56,25617,434.1
+East of England,July,2020-07-08,49,23655,381.5
+East Midlands,July,2020-07-08,83,21768,453.1
+North East,July,2020-07-08,11,15135,569.4
+South West,July,2020-07-08,9,12836,229.2
+North West,July,2020-07-09,71,43332,594.2
+South East,July,2020-07-09,33,34177,374.2
+London,July,2020-07-09,20,34102,382.8
+Yorkshire and The Humber,July,2020-07-09,55,29820,544.2
+West Midlands,July,2020-07-09,88,25705,435.6
+East of England,July,2020-07-09,18,23673,381.7
+East Midlands,July,2020-07-09,48,21816,454.1
+North East,July,2020-07-09,4,15139,569.6
+South West,July,2020-07-09,8,12844,229.4
+North West,July,2020-07-10,4,43336,594.3
+South East,July,2020-07-10,6,34183,374.3
+London,July,2020-07-10,5,34107,382.9
+Yorkshire and The Humber,July,2020-07-10,7,29827,544.3
+West Midlands,July,2020-07-10,2,25707,435.7
+East of England,July,2020-07-10,2,23675,381.8
+East Midlands,July,2020-07-10,4,21820,454.2
+North East,July,2020-07-10,0,15139,569.6
+South West,July,2020-07-10,0,12844,229.4
